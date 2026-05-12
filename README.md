@@ -43,6 +43,9 @@ The project also demonstrates how data-driven decision-making can be used in the
 - Most movies are concentrated between ratings 7 and 8
 - Top Director based on average rating is Frank Darabont with 8.775 rating out of 10
 
+## 🔍 Diagnostic Analysis
+
+-Movies longer than 180 minutes generated an average revenue of 118 million dollars, compared to 59 million dollars for medium-length movies(90-120 mins)
 
 ## 🔮 Predictive Analysis
 - Model predictions are off by around 0.055 IMDb rating points on average.
@@ -51,9 +54,7 @@ The project also demonstrates how data-driven decision-making can be used in the
 
 ## 📝 Prescriptive Analysis
 -Movies with runtime longer than 180 minutes generated the highest average box office revenue in the dataset, indicating that large-scale epic and franchise films tend to perform strongly commercially.
-## 🔍 Diagnostic Analysis
 
--Movies longer than 180 minutes generated an average revenue of 118 million dollars, compared to 59 million dollars for medium-length movies(90-120 mins)
 
 ---
 
