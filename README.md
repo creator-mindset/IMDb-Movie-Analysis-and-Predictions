@@ -9,7 +9,6 @@ The project focuses on understanding the important factors affecting movie ratin
 The analysis includes:
 
 - 📊 Descriptive Analysis
-- 🔍 Diagnostic Analysis
 - 🔮 Predictive Analysis
 - 📝 Prescriptive Analysis
 - 🤖 Machine Learning Techniques
@@ -47,6 +46,7 @@ The project also demonstrates how data-driven decision-making can be used in the
 
 
 ## 🔮 Predictive Analysis
+![Predicted vs Actual IMDb Rating](Predicted%20vs%20Actual%20IMDb%20Rating.png)
 - Model predictions are off by around 0.055 IMDb rating points on average.
 - Model explains 50% of the variation in IMDb ratings.
 - The predicted revenue graph demonstrates a sharp decline after top-performing movies, suggesting that the movie industry follows a long-tail revenue distribution where only a limited number of films achieve blockbuster-level earnings while the majority generate moderate revenue.
