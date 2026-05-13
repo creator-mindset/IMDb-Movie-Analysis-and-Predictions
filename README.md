@@ -37,15 +37,13 @@ The project also demonstrates how data-driven decision-making can be used in the
 
 
 ## 📊 Descriptive Analysis
+![Most Popular Genre Over Time](Most%20Popular%20Genre%20Over%20Time.png)
 - Drama stays consistently dominant
 - Family and Adventure genres are most grossed genres
 - Star Wars: Episode VII - The Force Awakens is the most grossed movie with a revenue of $936662225.0
 - Most movies are concentrated between ratings 7 and 8
 - Top Director based on average rating is Frank Darabont with 8.775 rating out of 10
 
-## 🔍 Diagnostic Analysis
-
--Movies longer than 180 minutes generated an average revenue of 118 million dollars, compared to 59 million dollars for medium-length movies(90-120 mins)
 
 ## 🔮 Predictive Analysis
 - Model predictions are off by around 0.055 IMDb rating points on average.
@@ -54,6 +52,9 @@ The project also demonstrates how data-driven decision-making can be used in the
 
 ## 📝 Prescriptive Analysis
 -Movies with runtime longer than 180 minutes generated the highest average box office revenue in the dataset, indicating that large-scale epic and franchise films tend to perform strongly commercially.
+
+--Movies longer than 180 minutes generated an average revenue of 118 million dollars, compared to 59 million dollars for medium-length movies(90-120 mins)
+
 
 
 ---
