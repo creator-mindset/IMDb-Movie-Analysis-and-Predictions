@@ -41,6 +41,7 @@ The project also demonstrates how data-driven decision-making can be used in the
 - Drama stays consistently dominant
 - Family and Adventure genres are most grossed genres
 - Star Wars: Episode VII - The Force Awakens is the most grossed movie with a revenue of $936662225.0
+![Distribution of IMDb rating](Distribution%20of%20IMDb%20rating.png)
 - Most movies are concentrated between ratings 7 and 8
 - Top Director based on average rating is Frank Darabont with 8.775 rating out of 10
 
