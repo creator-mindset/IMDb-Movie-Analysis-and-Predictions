@@ -1,6 +1,7 @@
 # 🎬 IMDb Movie Analysis and Predictions
 
 ## 📌 About the Project
+![Data Analytics Framework](https://www.clearobject.com/wp-content/uploads/2019/11/file-6jT9My.png.webp)
 
 This project performs comprehensive analysis on the IMDb Top 1000 Movies Dataset using Data Analysis, Machine Learning, and Python Programming techniques.
 
@@ -49,9 +50,11 @@ The project also demonstrates how data-driven decision-making can be used in the
 ![Predicted vs Actual IMDb Rating](Predicted%20vs%20Actual%20IMDb%20Rating.png)
 - Model predictions are off by around 0.055 IMDb rating points on average.
 - Model explains 50% of the variation in IMDb ratings.
+- ![Actual Revenue](Actual%20Movie%20Revenue.png) | ![Predicted Revenue](Predicted%20Movie%20Revenue.png)
 - The predicted revenue graph demonstrates a sharp decline after top-performing movies, suggesting that the movie industry follows a long-tail revenue distribution where only a limited number of films achieve blockbuster-level earnings while the majority generate moderate revenue.
 
 ## 📝 Prescriptive Analysis
+![Revenue by Length](Average%20Revenue%20by%20Movie%20Length.png)
 -Movies with runtime longer than 180 minutes generated the highest average box office revenue in the dataset, indicating that large-scale epic and franchise films tend to perform strongly commercially.
 
 --Movies longer than 180 minutes generated an average revenue of 118 million dollars, compared to 59 million dollars for medium-length movies(90-120 mins)
